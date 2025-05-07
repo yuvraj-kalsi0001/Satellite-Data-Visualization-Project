@@ -23,8 +23,8 @@ This project was developed as part of **COMP 4304 – Data Visualization** at Me
 
 The goal was to create a compelling data story about artificial satellites in orbit, using the **General Catalog of Artificial Space Objects (GCAT)** dataset curated by Jonathan McDowell. The final deliverables included:
 
-- ✅ A **large-format infographic** (36×24 inches) designed for public display.
-- ✅ An **interactive dashboard** built with Python for data exploration.
+-  A **large-format infographic** (36×24 inches) designed for public display.
+-  An **interactive dashboard** built with Python for data exploration.
 
 ---
 
@@ -91,4 +91,3 @@ The goal was to create a compelling data story about artificial satellites in or
 
 ---
 
-> 🔗 Feel free to fork and star this project if you find it insightful!
