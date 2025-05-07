@@ -82,7 +82,6 @@ The goal was to create a compelling data story about artificial satellites in or
 1. Clone the repository:
    ```bash
    git clone https://github.com/yuvraj-kalsi0001/Satellite-Data-Visualization-Project
-   cd satellite-visualization
    ```
 2. Open the Jupyter notebooks for the infographic and dashboard.
 3. For the dashboard, run:
